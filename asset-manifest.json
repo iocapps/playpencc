@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/playpencc/static/css/main.5f361e03.chunk.css",
+    "main.js": "/playpencc/static/js/main.5660873a.chunk.js",
+    "main.js.map": "/playpencc/static/js/main.5660873a.chunk.js.map",
+    "runtime-main.js": "/playpencc/static/js/runtime-main.64b9ebf1.js",
+    "runtime-main.js.map": "/playpencc/static/js/runtime-main.64b9ebf1.js.map",
+    "static/js/2.25a8b3f3.chunk.js": "/playpencc/static/js/2.25a8b3f3.chunk.js",
+    "static/js/2.25a8b3f3.chunk.js.map": "/playpencc/static/js/2.25a8b3f3.chunk.js.map",
+    "index.html": "/playpencc/index.html",
+    "precache-manifest.fd99567961a2dfe1134157c8eb7b33e6.js": "/playpencc/precache-manifest.fd99567961a2dfe1134157c8eb7b33e6.js",
+    "service-worker.js": "/playpencc/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/playpencc/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25a8b3f3.chunk.js.LICENSE.txt": "/playpencc/static/js/2.25a8b3f3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/playpencc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b9ebf1.js",
+    "static/js/2.25a8b3f3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5660873a.chunk.js"
+  ]
+}

@@ -1,0 +1,59 @@
+.App {
+    text-align: center;
+    max-width: 768px;
+    margin: 0 auto;
+    font-family: 'Comfortaa', cursive;
+    img{
+        max-width: 50vmin;
+        height: auto;
+    }
+    .info{
+        padding: 8px;
+        margin-bottom: 10px;
+        border-radius: 10px !important;
+        &.about{
+            background-color: #018e5b;
+        }
+
+        &.director{
+            background-color: #785396;
+        }
+        &.mission{
+            background-color: #4579a3;
+        }
+        &.programs{
+            background-color: #1b7f79;
+        }
+        &.contact{
+            background-color: #785396;
+        }
+        .headings{
+            margin: 5px 0 10px 0;
+            color: white;
+        }
+        p{
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 8px;
+            margin-bottom: 0;
+            line-height: 1.8em;
+            h3{
+                margin-top: 0;
+            }
+
+            &.contact-info{
+                span{
+                    font-weight: bold;
+                    color: #785396;
+                    line-height: 2.4em;
+                }
+            }
+
+            &.program-info > ul{
+                text-align: left;
+            }
+        }
+    }
+}
+  

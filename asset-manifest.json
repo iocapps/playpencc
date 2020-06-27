@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/playpencc/static/css/main.742eb604.chunk.css",
+    "main.css": "/playpencc/static/css/main.878db553.chunk.css",
     "main.js": "/playpencc/static/js/main.e8079240.chunk.js",
     "main.js.map": "/playpencc/static/js/main.e8079240.chunk.js.map",
     "runtime-main.js": "/playpencc/static/js/runtime-main.64b9ebf1.js",
@@ -8,16 +8,16 @@
     "static/js/2.df391dc0.chunk.js": "/playpencc/static/js/2.df391dc0.chunk.js",
     "static/js/2.df391dc0.chunk.js.map": "/playpencc/static/js/2.df391dc0.chunk.js.map",
     "index.html": "/playpencc/index.html",
-    "precache-manifest.b7b12b52bd1c2730de773c9700851bd4.js": "/playpencc/precache-manifest.b7b12b52bd1c2730de773c9700851bd4.js",
+    "precache-manifest.4426a9ee7d6335364880ba98868cc08d.js": "/playpencc/precache-manifest.4426a9ee7d6335364880ba98868cc08d.js",
     "service-worker.js": "/playpencc/service-worker.js",
-    "static/css/main.742eb604.chunk.css.map": "/playpencc/static/css/main.742eb604.chunk.css.map",
+    "static/css/main.878db553.chunk.css.map": "/playpencc/static/css/main.878db553.chunk.css.map",
     "static/js/2.df391dc0.chunk.js.LICENSE.txt": "/playpencc/static/js/2.df391dc0.chunk.js.LICENSE.txt",
     "static/media/Playpen-logo.png": "/playpencc/static/media/Playpen-logo.7e262a63.png"
   },
   "entrypoints": [
     "static/js/runtime-main.64b9ebf1.js",
     "static/js/2.df391dc0.chunk.js",
-    "static/css/main.742eb604.chunk.css",
+    "static/css/main.878db553.chunk.css",
     "static/js/main.e8079240.chunk.js"
   ]
 }

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/playpencc/static/css/main.878db553.chunk.css",
-    "main.js": "/playpencc/static/js/main.e8079240.chunk.js",
-    "main.js.map": "/playpencc/static/js/main.e8079240.chunk.js.map",
-    "runtime-main.js": "/playpencc/static/js/runtime-main.64b9ebf1.js",
-    "runtime-main.js.map": "/playpencc/static/js/runtime-main.64b9ebf1.js.map",
-    "static/js/2.df391dc0.chunk.js": "/playpencc/static/js/2.df391dc0.chunk.js",
-    "static/js/2.df391dc0.chunk.js.map": "/playpencc/static/js/2.df391dc0.chunk.js.map",
-    "index.html": "/playpencc/index.html",
-    "precache-manifest.4426a9ee7d6335364880ba98868cc08d.js": "/playpencc/precache-manifest.4426a9ee7d6335364880ba98868cc08d.js",
-    "service-worker.js": "/playpencc/service-worker.js",
-    "static/css/main.878db553.chunk.css.map": "/playpencc/static/css/main.878db553.chunk.css.map",
-    "static/js/2.df391dc0.chunk.js.LICENSE.txt": "/playpencc/static/js/2.df391dc0.chunk.js.LICENSE.txt",
-    "static/media/Playpen-logo.png": "/playpencc/static/media/Playpen-logo.7e262a63.png"
+    "main.css": "./static/css/main.878db553.chunk.css",
+    "main.js": "./static/js/main.e8079240.chunk.js",
+    "main.js.map": "./static/js/main.e8079240.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.04571aa6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.04571aa6.js.map",
+    "static/js/2.df391dc0.chunk.js": "./static/js/2.df391dc0.chunk.js",
+    "static/js/2.df391dc0.chunk.js.map": "./static/js/2.df391dc0.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d859eb4c9d6d0d6b366d3decd0288a50.js": "./precache-manifest.d859eb4c9d6d0d6b366d3decd0288a50.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.878db553.chunk.css.map": "./static/css/main.878db553.chunk.css.map",
+    "static/js/2.df391dc0.chunk.js.LICENSE.txt": "./static/js/2.df391dc0.chunk.js.LICENSE.txt",
+    "static/media/Playpen-logo.png": "./static/media/Playpen-logo.7e262a63.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.64b9ebf1.js",
+    "static/js/runtime-main.04571aa6.js",
     "static/js/2.df391dc0.chunk.js",
     "static/css/main.878db553.chunk.css",
     "static/js/main.e8079240.chunk.js"
